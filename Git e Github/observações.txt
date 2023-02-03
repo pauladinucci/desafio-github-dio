@@ -1,0 +1,10 @@
+##como commitar:
+1)criar repositório no github
+2)copiar https
+3)criar pasta no pc
+4)abrir git e digitar "git clone https copiado"
+5)git add. - no servidor local
+6)git status - verifica status
+7)git commit -m "observação pertinente"
+8)git push origin main - envia para o github
+
