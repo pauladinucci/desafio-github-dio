@@ -1,0 +1,7 @@
+Pensamento computacional
+
+Se divide em pilares sendo eles:
+- decomposição;
+-Reconhecimento de padrões;
+-abstração;
+-design de algoritmos - Este seria o passo a passo do problema a ser resolvido posteriormente.
